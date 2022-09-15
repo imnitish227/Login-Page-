@@ -19,7 +19,7 @@ body{
     border-top-left-radius: 50px;
 }
 .logo{
-    background-image: url(png/login.jpg);
+    background-image: url(login.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
